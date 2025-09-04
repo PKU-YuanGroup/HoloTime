@@ -5,6 +5,7 @@
  <a href='https://zhouhyocean.github.io/holotime/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
  <a href='https://www.youtube.com/watch?v=reJ7H-Pe2MQ'><img src='https://img.shields.io/badge/Youtube-Video-b31b1b.svg'></a>&nbsp;
  <a href='https://huggingface.co/Marblueocean/HoloTime'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> &nbsp;
+ <a href="https://github.com/3DTopia/Imagine360/blob/master/dataset/dataset.md"><img src="https://img.shields.io/badge/Data-360World-ffcc00"></a>
 
 <p>
 <p>
@@ -22,6 +23,7 @@ _**[Haiyang Zhou*](), [Wangbo Yu*](https://scholar.google.com/citations?user=UOE
 
 # 📰 News
 
+* **[2025.4.30]**  🔥🔥🔥 We have released our curated 360 video dataset `360World`. Click [`dataset/dataset.md`](dataset/dataset.md) for more information.
 * **[2025.4.30]**  🔥🔥🔥 We have released our **Panoramic Animator** model and the inference code of the whole pipeline **HoloTime**.  Welcome to download it from [Huggingface](https://huggingface.co/Marblueocean/HoloTime) and have a try!
 
 
