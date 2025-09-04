@@ -23,7 +23,7 @@ The 360World dataset is built exclusively from publicly accessible YouTube conte
 
 ## Dataset Overview
 The 360World dataset consists of 7314 video clips curated from online 360 videos.
-Each entry in `dataset/360world_data.csv` contains:
+Each entry in `dataset/360video_data.csv` contains:
 
 | Column         | Description                                                                 |
 |----------------|------------------------------------------------------------------------------|
